@@ -1,0 +1,20 @@
+# Model ve ML Framework
+torch
+torchaudio
+transformers
+
+# Ses İşleme
+librosa
+soundfile
+
+# Veri İşleme
+pandas
+numpy
+datasets
+
+# NLP ve Anahtar Kelime Çıkarma
+yake
+nltk
+
+# Web Arayüzü
+gradio
