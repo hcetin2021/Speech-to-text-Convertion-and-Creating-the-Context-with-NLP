@@ -22,7 +22,7 @@ pip install -r requirements.txt
 cd whisper-finetuned
 python app.py
 ```
-
+***(You can test the program using chunk_1 and chunk_2 sound files)
 Visit `http://127.0.0.1:7860` to use the interface.
 
 ## 🛠️ Technologies Used
